@@ -16,7 +16,13 @@ The project demonstrates practical software development through the design and d
 - Doctor's Sick Note Generator.
 - Accessible web-based interface.
 - Practical document templates.
+## Application Screenshots
 
+![Template Tower homepage](template%20tower%20screenshot.jpeg)
+
+![Template Tower screenshot 1](template%20tower%20screenshot1.jpeg)
+
+![Template Tower screenshot 2](template%20tower%20screenshot2.jpeg)
 ## Technology Stack
 
 - HTML
